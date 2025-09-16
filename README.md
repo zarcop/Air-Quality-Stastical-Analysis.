@@ -9,7 +9,7 @@ Data-driven study analyzing air quality across U.S. Core-Based Statistical Areas
 - Visualization: choropleth maps, distribution plots, scatterplots for insight communication
 - Reproducible research: Jupyter Notebooks, well-structured data artifacts
 
-## Key outcomes (recruiter summary)
+## Key outcomes.
 - Produced a cleaned, analysis-ready dataset and a regression-ready subset.
 - Generated clear visual evidence of air quality distribution and relationships with population and other indicators.
 - Delivered a final report (PDF) and notebooks that document methods and results.
