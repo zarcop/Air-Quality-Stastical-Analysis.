@@ -44,12 +44,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn statsmodels openpyxl ju
 
 4. Figures are saved in `figures/`. Processed datasets are in `data/` (CSV/XLSX).
 
-## How to read this for recruiting conversations
-- Quick evidence of technical ability: point reviewers to `notebooks/Statistical_Analysis.ipynb` and `Regression_Dataset.csv` for modeling pipeline and inputs.
-- Communication and impact: `ISYE3030FinalProject.pdf` contains an executive summary, methodology, and key findings suitable for non-technical stakeholders.
-- Reproducibility: data cleaning is in `Datasets Cleaning.ipynb` and outputs are stored in `data/` for review.
-
-## Suggested interview talking points
-- Problem framing: why CBSAs and AQI matter for public health and policy.
-- Data challenges: merging different sources, handling missingness, and ensuring regression assumptions.
-- Modeling choices and interpretation: which features were predictive, how effect sizes map to practical impacts.
