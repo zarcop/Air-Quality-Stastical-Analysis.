@@ -1,4 +1,4 @@
-# Air Quality Statistical Analysis — ISYE 3030 Final Project
+# Air Quality Statistical Analysis
 
 Data-driven study analyzing air quality across U.S. Core-Based Statistical Areas (CBSAs). I cleaned and consolidated multiple sources, performed exploratory data analysis, built regression models to test associations between air quality and socio-demographic indicators, and produced visualizations (including choropleths and scatter plots) to communicate findings.
 
